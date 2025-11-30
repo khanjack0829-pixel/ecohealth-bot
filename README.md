@@ -150,11 +150,13 @@ Air Quality Check
 
 Medical Navigation
 
-(Place image here)
 
-(Place image here)
+![photo_1_2025-11-30_09-03-55](https://github.com/user-attachments/assets/817ae077-b99c-4f54-8a18-9ab9df9b3837)
 
-(Place image here)
+![photo_4_2025-11-30_09-03-55](https://github.com/user-attachments/assets/e3aba153-616d-4fc7-b90f-6ef658868ee4)
+![photo_3_2025-11-30_09-03-55](https://github.com/user-attachments/assets/08911009-cacb-4385-aef3-0123c5529457)
+![photo_2_2025-11-30_09-03-55](https://github.com/user-attachments/assets/d5ae9a37-7a24-46dc-833c-12b2bb195aed)
+
 
 🏆 Impact & SDG Goals
 
